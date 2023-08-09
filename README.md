@@ -8,10 +8,9 @@
 
 
 ### Project Overview:
-This project presents an Excel dashboard focused on coffee sales data. The dataset includes details like Coffee Type, Roast Type, Price per 100g, and Profit. The dashboard offers:
+This project presents an interactive Excel dashboard focused on coffee sales data. The dataset includes details like Coffee Type, Roast Type, Price per 100g, and Profit. The dashboard offers:
 
 1. Visual insights into coffee types and roast types.
 2. Analysis of pricing and profitability.
-3. Interactive exploration for effective data understanding.
    
-Designed for coffee shop owners, distributors, and enthusiasts, the dashboard aids decision-making by providing valuable sales insights. This project showcases our Excel skills in creating informative data visualizations for the coffee industry.
+Designed for coffee shop owners, distributors, and enthusiasts, the dashboard aids decision-making by providing valuable sales insights. 
